@@ -1,3 +1,8 @@
 commit 1
 commit 2 developer
 commit 3 developer
+<<<<<<< HEAD
+=======
+commit 4 developer
+commit 5 hotfix
+>>>>>>> 3d2a5b4215b9d334cc682bbfe9126d44560f2dc1
